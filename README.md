@@ -4,8 +4,6 @@ Support repository for DriftNotes - the note-taking app where notes disappear wh
 
 ## Get Help
 
-### Email Support
-For direct support, email us at: **support@pixeldrift.studio**
 
 ### Report a Bug
 [Create a new issue](../../issues/new) with:
